@@ -16,7 +16,7 @@ const Contacts = () => {
             </TextSpan>
           ))}
         </motion.h2>
-        <motion.p variants={fadeIn('up','tween', 0.1, .6)} className='text-center text-whiteSecondary mb-12'>I'm looking for opportunities to work as a Frontend Developer, Analyst, or in fields related to Data. Please don't hesitate to reach out to me!</motion.p>
+        <motion.p variants={fadeIn('up','tween', 0.1, .6)} className='text-center text-whiteSecondary mb-12'>I&apos;m looking for opportunities to work as a Frontend Developer, Analyst, or in fields related to Data. Please don&apos;t hesitate to reach out to me!</motion.p>
 
         <motion.a variants={fadeIn('up','tween', 0.1, .6)} href={emailLink} target='_blank'  className='px-12 py-2.5 text-lg rounded-md text-wht border-[0.1rem] border-primary bg-primary/10 hover:bg-primary/[.05] font-medium transition-colors ease-in-out duration-200'>
         Click me in here!
