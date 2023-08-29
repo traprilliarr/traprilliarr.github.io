@@ -162,7 +162,7 @@ export const projects = [
 			'A simple accounting website project was created to make it easily understandable and utilizes basic PHP CRUD operations with a touch of JavaScript animation to enhance interactivity',
 		techsUsed: ['HTML', 'CSS', 'Javascript', 'Tailwind','Java','Fetch'],
 		image: 'tokojj.png',
-		liveUrl: 'https://websitetokojj.github.io/',
+		liveUrl: 'https://websitetokojj.github.io/tokojj.github.io/',
 	},
 	{
 		title: 'Brother Saitama',
