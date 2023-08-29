@@ -55,7 +55,7 @@ export const heroData = {
 	name: 'Retno Tri Aprillia',
 	subheading: 'Frontend Developer',
 	description:
-		'A Front-end Web Developer who loves to turn ideas into reality through web development.',
+		'A frontend developer who wishes to also pursue a career as a Data Enthusiast.',
 };
 
 export const aboutData = {
