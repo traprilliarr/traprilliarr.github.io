@@ -129,8 +129,8 @@ export const projects = [
 		title: 'Portfolio Website',
 		description: 'Created with a simple, elegant, and organized concept for easier visibility',
 		techsUsed: ['Next', 'React', 'Tailwind', 'Motion'],
-		image: 'porto.png',
-		liveUrl: 'https://retno.vercel.app/',
+		image: '/public/porto.png',
+		liveUrl: 'https://traprilliarr.vercel.app/',
 	},
 	{
 		title: 'Archive Data PLN',
