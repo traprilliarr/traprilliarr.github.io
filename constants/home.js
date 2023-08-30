@@ -155,6 +155,7 @@ export const projects = [
 		techsUsed: ['HTML', 'CSS' ,'Javascript'],
 		image: 'clocked.png',
 		githubUrl: 'https://clocked.vercel.app/',
+		liveUrl: 'https://clocked.vercel.app/'
 	},
 	{
 		title: 'TokoJJ',
