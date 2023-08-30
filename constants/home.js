@@ -154,7 +154,7 @@ export const projects = [
 			'A launchpad website with a simple model and a few added shapes to make it look more dynamic',
 		techsUsed: ['HTML', 'CSS' ,'Javascript'],
 		image: 'clocked.png',
-		githubUrl: 'https://clocked.vercell.app/',
+		githubUrl: 'https://clocked.vercel.app/',
 	},
 	{
 		title: 'TokoJJ',
