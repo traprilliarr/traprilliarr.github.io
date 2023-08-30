@@ -138,7 +138,7 @@ export const projects = [
 			'This website was created as the final project of an internship at PT PLN, which contains storage for outgoing and incoming letters',
 		techsUsed: ['HTML', 'CSS' ,'SQL Server','PHP', 'Codeigniter', 'Laravel'],
 		image: 'pln.jpg',
-		githubUrl: 'https://github.com/traprilliarr',
+		githubUrl: 'https://github.com/traprilliarr/archive_data_PLN',
 	},
 	{
 		title: 'Cloudtx',
@@ -154,7 +154,7 @@ export const projects = [
 			'A launchpad website with a simple model and a few added shapes to make it look more dynamic',
 		techsUsed: ['HTML', 'CSS' ,'Javascript'],
 		image: 'clocked.png',
-		githubUrl: 'https://github.com/traprilliarr',
+		githubUrl: 'https://clocked.vercell.app/',
 	},
 	{
 		title: 'TokoJJ',
