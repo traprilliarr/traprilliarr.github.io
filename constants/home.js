@@ -192,4 +192,20 @@ export const projects = [
 		liveUrl: '#',
 		githubUrl: '#',
 	},
+	{
+		title: 'TraderX',
+		description:
+			'A website access treasury revenue, advanced tools, and expert trading insights, maximizing profits in Web3',
+		techsUsed: ['Next', 'Tailwind'],
+		image: 'webx.png',
+		liveUrl: 'https://trader-x-capital.vercel.app/',
+	},
+	{
+		title: 'Solie Sol',
+		description:
+			'An meme project website in Solana',
+		techsUsed: ['JavaScript', 'HTML'],
+		image: 'ssol.png',
+		liveUrl: 'https://ssol.vercel.app/',
+	},
 ];
